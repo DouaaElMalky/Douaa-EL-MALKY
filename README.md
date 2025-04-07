@@ -1,4 +1,4 @@
-# Hello, I'm Douaa EL MALKY
+# Douaa EL MALKY
 Driven by innovation, I am eager to apply my skills in dynamic web and mobile projects. My ambition is to actively contribute to innovative initiatives, leveraging both my technical expertise and personal values. With a solid computer engineering background and practical experience, I am poised to fully engage in exciting projects that push boundaries.
 
 - 📍 Localisation : Casablanca, Maroc
