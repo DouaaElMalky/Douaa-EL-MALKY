@@ -1,10 +1,10 @@
-# Douaa EL MALKY
------------
+# Hello, I'm Douaa EL MALKY
 I am passionate about innovation and eager to apply my skills in web and mobile projects. My ambition is to actively contribute, leveraging my skills and values, to innovative initiatives within a dynamic team.
+- 📍 Localisation : Casablanca, Maroc
 - 📧 **Email**: [douaaelmalky3@gmail.com](mailto:douaaelmalky3@gmail.com)
 - 📧 **Student Email**: [d.el_malky@mundiapolis.ma](mailto:d.el_malky@mundiapolis.ma)
 
-## Skills
+## 🛠️ Skills
 
 ### Frontend Development
 - **Languages**: HTML5, CSS3, JavaScript, TypeScript
@@ -26,3 +26,7 @@ I am passionate about innovation and eager to apply my skills in web and mobile 
 ### DevOps Tools
 - Docker
 - Azure
+
+### Modeling & Design
+- Merise / UML
+- Figma / Balsamiq
